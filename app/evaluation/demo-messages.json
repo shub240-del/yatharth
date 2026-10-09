@@ -1,0 +1,177 @@
+[
+  {
+    "id": "Y001",
+    "label": "SAFE",
+    "message": "Beta, I reached the market.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y002",
+    "label": "SAFE",
+    "message": "The doctor appointment is confirmed for Monday.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y003",
+    "label": "SAFE",
+    "message": "Please remind me to take my medicine.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y004",
+    "label": "SAFE",
+    "message": "I will come home by 6.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y005",
+    "label": "SAFE",
+    "message": "I received the bank statement.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y026",
+    "label": "LOW_RISK",
+    "message": "Call me today when you have time.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y027",
+    "label": "LOW_RISK",
+    "message": "The hospital appointment is tomorrow.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y028",
+    "label": "LOW_RISK",
+    "message": "I read a newspaper story about digital arrest scams.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y029",
+    "label": "LOW_RISK",
+    "message": "The government office closes at five.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y030",
+    "label": "LOW_RISK",
+    "message": "Your son called while you were out.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y041",
+    "label": "MEDIUM_RISK",
+    "message": "Someone called saying there is a problem with my electricity bill.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y042",
+    "label": "MEDIUM_RISK",
+    "message": "I received a strange message from an unknown number.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y043",
+    "label": "MEDIUM_RISK",
+    "message": "Please send money for the groceries.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y044",
+    "label": "MEDIUM_RISK",
+    "message": "Can you give me your OTP?",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y045",
+    "label": "MEDIUM_RISK",
+    "message": "Please provide your password.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y061",
+    "label": "HIGH_RISK",
+    "message": "Your bank account will be blocked today. Send ₹50,000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y062",
+    "label": "HIGH_RISK",
+    "message": "Your KYC has expired. Send your details now.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y063",
+    "label": "HIGH_RISK",
+    "message": "I am calling from your bank. Please give me the OTP.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y064",
+    "label": "HIGH_RISK",
+    "message": "Your courier parcel is held by customs. Pay ₹200 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y065",
+    "label": "HIGH_RISK",
+    "message": "Your package requires customs payment. Send money today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y086",
+    "label": "CRITICAL_RISK",
+    "message": "I am from the police department. Your Aadhaar has been used in a crime. Do not tell your family. Transfer money immediately to avoid arrest.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y087",
+    "label": "CRITICAL_RISK",
+    "message": "CBI digital arrest warrant: stay on the video call and transfer ₹50000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y088",
+    "label": "CRITICAL_RISK",
+    "message": "I am a bank officer. Your account will be blocked today. Give your OTP and send money immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y089",
+    "label": "CRITICAL_RISK",
+    "message": "Your KYC has expired. Provide your password and transfer money today or your account will be blocked.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y090",
+    "label": "CRITICAL_RISK",
+    "message": "Police: legal action begins today. Keep this secret and pay ₹10000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  }
+]

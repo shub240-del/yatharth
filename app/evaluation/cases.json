@@ -1,0 +1,702 @@
+[
+  {
+    "id": "Y001",
+    "label": "SAFE",
+    "message": "Beta, I reached the market.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y002",
+    "label": "SAFE",
+    "message": "The doctor appointment is confirmed for Monday.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y003",
+    "label": "SAFE",
+    "message": "Please remind me to take my medicine.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y004",
+    "label": "SAFE",
+    "message": "I will come home by 6.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y005",
+    "label": "SAFE",
+    "message": "I received the bank statement.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y006",
+    "label": "SAFE",
+    "message": "Your bank statement is ready in the official mobile app.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y007",
+    "label": "SAFE",
+    "message": "Never share your OTP with anyone. Our bank never asks for it.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y008",
+    "label": "SAFE",
+    "message": "Your appointment at the government hospital is confirmed.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y009",
+    "label": "SAFE",
+    "message": "The police station has announced a road closure for Sunday.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y010",
+    "label": "SAFE",
+    "message": "The parcel was delivered to reception.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y011",
+    "label": "SAFE",
+    "message": "Thank you. Your electricity bill payment has been received.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y012",
+    "label": "SAFE",
+    "message": "I paid the school fee yesterday.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y013",
+    "label": "SAFE",
+    "message": "Your income tax return has been processed. Check the official portal.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y014",
+    "label": "SAFE",
+    "message": "The investment seminar explains that returns are not guaranteed.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y015",
+    "label": "SAFE",
+    "message": "Please bring bread on your way home.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y016",
+    "label": "SAFE",
+    "message": "I will visit the bank tomorrow to update my address.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y017",
+    "label": "SAFE",
+    "message": "Your OTP is 123456. Do not share it with anyone.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y018",
+    "label": "SAFE",
+    "message": "No payment is required for this appointment.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y019",
+    "label": "SAFE",
+    "message": "The delivery person left your package with the guard.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y020",
+    "label": "SAFE",
+    "message": "Happy birthday! Have a lovely day.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y021",
+    "label": "SAFE",
+    "message": "We will never ask you to share your password.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y022",
+    "label": "SAFE",
+    "message": "Your train reservation is confirmed for next week.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y023",
+    "label": "SAFE",
+    "message": "Dinner is ready. Come downstairs.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y024",
+    "label": "SAFE",
+    "message": "Your vaccination reminder is scheduled for Friday.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y025",
+    "label": "SAFE",
+    "message": "Papa, main ghar pahunch gaya.",
+    "origin": "hand-authored synthetic",
+    "language": "Hinglish"
+  },
+  {
+    "id": "Y026",
+    "label": "LOW_RISK",
+    "message": "Call me today when you have time.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y027",
+    "label": "LOW_RISK",
+    "message": "The hospital appointment is tomorrow.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y028",
+    "label": "LOW_RISK",
+    "message": "I read a newspaper story about digital arrest scams.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y029",
+    "label": "LOW_RISK",
+    "message": "The government office closes at five.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y030",
+    "label": "LOW_RISK",
+    "message": "Your son called while you were out.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y031",
+    "label": "LOW_RISK",
+    "message": "Please update your emergency contact at reception.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y032",
+    "label": "LOW_RISK",
+    "message": "The police officer helped me find the bus stop.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y033",
+    "label": "LOW_RISK",
+    "message": "Keep your PIN private.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y034",
+    "label": "LOW_RISK",
+    "message": "I need help setting up my new phone.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y035",
+    "label": "LOW_RISK",
+    "message": "There is an investment workshop next month.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y036",
+    "label": "LOW_RISK",
+    "message": "Check your account statement for the annual summary.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y037",
+    "label": "LOW_RISK",
+    "message": "A friend mentioned crypto at dinner.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y038",
+    "label": "LOW_RISK",
+    "message": "Is a gift card a good birthday present?",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y039",
+    "label": "LOW_RISK",
+    "message": "I am at the hospital visiting auntie.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y040",
+    "label": "LOW_RISK",
+    "message": "We should discuss the bill before paying it.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y041",
+    "label": "MEDIUM_RISK",
+    "message": "Someone called saying there is a problem with my electricity bill.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y042",
+    "label": "MEDIUM_RISK",
+    "message": "I received a strange message from an unknown number.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y043",
+    "label": "MEDIUM_RISK",
+    "message": "Please send money for the groceries.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y044",
+    "label": "MEDIUM_RISK",
+    "message": "Can you give me your OTP?",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y045",
+    "label": "MEDIUM_RISK",
+    "message": "Please provide your password.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y046",
+    "label": "MEDIUM_RISK",
+    "message": "Send your PIN to this number.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y047",
+    "label": "MEDIUM_RISK",
+    "message": "Enter your CVV to continue.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y048",
+    "label": "MEDIUM_RISK",
+    "message": "Please pay the courier fee.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y049",
+    "label": "MEDIUM_RISK",
+    "message": "Install AnyDesk on your phone.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y050",
+    "label": "MEDIUM_RISK",
+    "message": "Turn on remote access for this session.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y051",
+    "label": "MEDIUM_RISK",
+    "message": "We offer guaranteed returns.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y052",
+    "label": "MEDIUM_RISK",
+    "message": "You can double your money with us.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y053",
+    "label": "MEDIUM_RISK",
+    "message": "Transfer money to the new UPI account.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y054",
+    "label": "MEDIUM_RISK",
+    "message": "Purchase gift cards for the office.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y055",
+    "label": "MEDIUM_RISK",
+    "message": "Send payment for the customs fee.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y056",
+    "label": "MEDIUM_RISK",
+    "message": "I am calling from your bank.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y057",
+    "label": "MEDIUM_RISK",
+    "message": "I am a police officer.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y058",
+    "label": "MEDIUM_RISK",
+    "message": "Your electricity has a problem. Pay the bill.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y059",
+    "label": "MEDIUM_RISK",
+    "message": "Unknown number says I won a prize.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y060",
+    "label": "MEDIUM_RISK",
+    "message": "Please send your bank details for a refund.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y061",
+    "label": "HIGH_RISK",
+    "message": "Your bank account will be blocked today. Send ₹50,000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y062",
+    "label": "HIGH_RISK",
+    "message": "Your KYC has expired. Send your details now.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y063",
+    "label": "HIGH_RISK",
+    "message": "I am calling from your bank. Please give me the OTP.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y064",
+    "label": "HIGH_RISK",
+    "message": "Your courier parcel is held by customs. Pay ₹200 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y065",
+    "label": "HIGH_RISK",
+    "message": "Your package requires customs payment. Send money today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y066",
+    "label": "HIGH_RISK",
+    "message": "Install AnyDesk urgently and send ₹500 to support.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y067",
+    "label": "HIGH_RISK",
+    "message": "This is tech support. Give remote access and pay ₹900.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y068",
+    "label": "HIGH_RISK",
+    "message": "Urgent investment opportunity: guaranteed returns. Send money today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y069",
+    "label": "HIGH_RISK",
+    "message": "Double your money immediately with this investment.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y070",
+    "label": "HIGH_RISK",
+    "message": "Your son had an accident. Transfer money immediately to the hospital.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y071",
+    "label": "HIGH_RISK",
+    "message": "I am your daughter, stranded at a hospital. Send ₹9000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y072",
+    "label": "HIGH_RISK",
+    "message": "Enter your password urgently at https://login-verify.example.xyz.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y073",
+    "label": "HIGH_RISK",
+    "message": "Please share your OTP immediately at https://secure-bank.example.top.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y074",
+    "label": "HIGH_RISK",
+    "message": "Your account is frozen. Send your password today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y075",
+    "label": "HIGH_RISK",
+    "message": "Your electricity will be disconnected today. Transfer money immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y076",
+    "label": "HIGH_RISK",
+    "message": "I am a bank officer. Transfer money to validate your account.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y077",
+    "label": "HIGH_RISK",
+    "message": "Customs notice: pay ₹250 now or face legal action.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y078",
+    "label": "HIGH_RISK",
+    "message": "The tax department requires you to transfer money today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y079",
+    "label": "HIGH_RISK",
+    "message": "Give me your verification code immediately. Do not tell your family.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y080",
+    "label": "HIGH_RISK",
+    "message": "Send your CVV now. Keep this secret.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y081",
+    "label": "HIGH_RISK",
+    "message": "Install remote access software today. Do not tell anyone.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y082",
+    "label": "HIGH_RISK",
+    "message": "Buy gift cards urgently. Do not tell your family.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y083",
+    "label": "HIGH_RISK",
+    "message": "Please send payment today to https://claim-prize.xyz.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y084",
+    "label": "HIGH_RISK",
+    "message": "Police verification: share your bank details immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y085",
+    "label": "HIGH_RISK",
+    "message": "Papa, accident ho gaya, turant paise bhejo. Kisi ko mat batana.",
+    "origin": "hand-authored synthetic",
+    "language": "Hinglish"
+  },
+  {
+    "id": "Y086",
+    "label": "CRITICAL_RISK",
+    "message": "I am from the police department. Your Aadhaar has been used in a crime. Do not tell your family. Transfer money immediately to avoid arrest.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y087",
+    "label": "CRITICAL_RISK",
+    "message": "CBI digital arrest warrant: stay on the video call and transfer ₹50000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y088",
+    "label": "CRITICAL_RISK",
+    "message": "I am a bank officer. Your account will be blocked today. Give your OTP and send money immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y089",
+    "label": "CRITICAL_RISK",
+    "message": "Your KYC has expired. Provide your password and transfer money today or your account will be blocked.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y090",
+    "label": "CRITICAL_RISK",
+    "message": "Police: legal action begins today. Keep this secret and pay ₹10000 immediately.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y091",
+    "label": "CRITICAL_RISK",
+    "message": "Tax department prosecution notice. Do not tell your family. Send money urgently.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y092",
+    "label": "CRITICAL_RISK",
+    "message": "I am customs officer. Your parcel contains illegal items. Pay ₹9000 today to avoid arrest.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y093",
+    "label": "CRITICAL_RISK",
+    "message": "Your son had an accident. Keep this secret and transfer ₹50000 immediately to the hospital.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y094",
+    "label": "CRITICAL_RISK",
+    "message": "We are tech support. Your account will be blocked today. Install AnyDesk and send money.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y095",
+    "label": "CRITICAL_RISK",
+    "message": "RBI order: your account is frozen. Transfer money immediately and share your OTP.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y096",
+    "label": "CRITICAL_RISK",
+    "message": "Bank KYC urgent: enter your password at https://verify-account.xyz and send ₹1 today.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y097",
+    "label": "CRITICAL_RISK",
+    "message": "I am police officer. You face arrest. Share your verification code and send money urgently.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y098",
+    "label": "CRITICAL_RISK",
+    "message": "Double your money with guaranteed returns today. Keep this secret and buy crypto.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y099",
+    "label": "CRITICAL_RISK",
+    "message": "Government digital arrest: remain on call. Transfer money today to avoid prosecution.",
+    "origin": "hand-authored synthetic",
+    "language": "English"
+  },
+  {
+    "id": "Y100",
+    "label": "CRITICAL_RISK",
+    "message": "Police ka order hai. Aadhaar case mein arrest hoga. Abhi paisa bhejo aur kisi ko mat batana.",
+    "origin": "hand-authored synthetic",
+    "language": "Hinglish"
+  }
+]

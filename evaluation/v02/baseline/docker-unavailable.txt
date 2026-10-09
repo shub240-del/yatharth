@@ -1,0 +1,1 @@
+2026-10-05: Docker executable unavailable; Docker validation NOT_RUN.

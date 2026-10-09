@@ -1,0 +1,11 @@
+{
+  "version": "yatharth-v02-synthetic-1.0",
+  "cases": 260,
+  "author": "AI assistant",
+  "all_labels": "PROVISIONAL, not human ground truth",
+  "sha256": "ed9997efd3b1a51aed1f64f82c8ef2726b71e722168feb93fc6e2b9fd6fd2969",
+  "engine_tuning_on_this_set": false,
+  "independent_human_review_count": 0,
+  "split": "challenge-only; no trained/tuned model and no held-out validity claim",
+  "scenario_groups": 64
+}

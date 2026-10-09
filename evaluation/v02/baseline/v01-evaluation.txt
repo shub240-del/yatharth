@@ -1,0 +1,52 @@
+YATHARTH RISK ENGINE EVALUATION
+{
+  "notice": "Internal prototype evaluation. Hand-authored synthetic cases, not a held-out real-world benchmark.",
+  "cases": 100,
+  "true_positives": 37,
+  "false_positives": 0,
+  "true_negatives": 60,
+  "false_negatives": 3,
+  "precision": 1.0,
+  "recall": 0.925,
+  "f1": 0.961038961038961,
+  "high_critical_recall": 0.925,
+  "severity_accuracy": 0.94,
+  "severity_mismatches": [
+    {
+      "id": "Y041",
+      "expected": "MEDIUM",
+      "actual": "LOW",
+      "score": 0
+    },
+    {
+      "id": "Y058",
+      "expected": "MEDIUM",
+      "actual": "LOW",
+      "score": 20
+    },
+    {
+      "id": "Y067",
+      "expected": "HIGH",
+      "actual": "CRITICAL",
+      "score": 80
+    },
+    {
+      "id": "Y069",
+      "expected": "HIGH",
+      "actual": "MEDIUM",
+      "score": 45
+    },
+    {
+      "id": "Y085",
+      "expected": "HIGH",
+      "actual": "LOW",
+      "score": 10
+    },
+    {
+      "id": "Y100",
+      "expected": "CRITICAL",
+      "actual": "MEDIUM",
+      "score": 35
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "engine_version": "rules-0.1+decision-0.1",
+  "label_basis": "provisional synthetic proposals; human review pending",
+  "cases": {
+    "C04-english": {
+      "kind": "FP",
+      "reason": "contextual_negation_or_quotation"
+    },
+    "C05-english": {
+      "kind": "FP",
+      "reason": "contextual_negation_or_quotation"
+    },
+    "E01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "E01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "E02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "E02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "F01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "F01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "F02-english": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "F02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "F02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I03-english": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "I03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "J03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "K01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "K01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "K02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "K02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L02-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L03-english": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "L03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "M01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "M01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "M02-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "M03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "M03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N01-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N01-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N03-hindi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N03-hinglish": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "E01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "E01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "E01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "E01-adv-polite": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "E01-adv-implied_urgency": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "F01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "F01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "F01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "G01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "G01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "G01-adv-implied_authority": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "H01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "H01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "H01-adv-implied_authority": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "I01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "I01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "I01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "I01-adv-polite": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "I01-adv-implied_urgency": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "I01-adv-implied_authority": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "J01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "J01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "J01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "K01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "K01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "K01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "L01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "L01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "L01-adv-polite": {
+      "kind": "FN",
+      "reason": "missing_signal_or_indirect_request"
+    },
+    "L01-adv-implied_urgency": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "M01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "M01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "M01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N01-adv-keyword_removed": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "N01-adv-misspelling": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "N01-adv-mixed_language": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "N01-adv-implied_urgency": {
+      "kind": "FN",
+      "reason": "adversarial_wording"
+    },
+    "REG04-marathi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "REG05-marathi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    },
+    "REG06-marathi": {
+      "kind": "FN",
+      "reason": "multilingual_coverage"
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "dataset_version": "yatharth-v02-synthetic-1.0",
+  "label_mode": "human",
+  "human_reviewed_cases": 0,
+  "disclaimer": "Assistant-authored synthetic proposed labels. Not real-world or independent human validation. Decision-support score; not a probability.",
+  "models": {
+    "A_keyword": {
+      "overall": {
+        "n": 0,
+        "TP": 0,
+        "TN": 0,
+        "FP": 0,
+        "FN": 0,
+        "precision": null,
+        "recall": null,
+        "F1": null,
+        "false_positive_rate": null,
+        "serious_risk_recall": null,
+        "excluded_ambiguous": 0,
+        "ambiguous_alert_rate": null,
+        "exact_severity_accuracy": null,
+        "category_accuracy": null,
+        "HIGH": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "CRITICAL": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "signal_precision": null,
+        "signal_recall": null
+      },
+      "by_language": {},
+      "canonical_by_language": {},
+      "by_variant": {},
+      "by_bucket": {}
+    },
+    "A2_multilingual_keyword": {
+      "overall": {
+        "n": 0,
+        "TP": 0,
+        "TN": 0,
+        "FP": 0,
+        "FN": 0,
+        "precision": null,
+        "recall": null,
+        "F1": null,
+        "false_positive_rate": null,
+        "serious_risk_recall": null,
+        "excluded_ambiguous": 0,
+        "ambiguous_alert_rate": null,
+        "exact_severity_accuracy": null,
+        "category_accuracy": null,
+        "HIGH": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "CRITICAL": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "signal_precision": null,
+        "signal_recall": null
+      },
+      "by_language": {},
+      "canonical_by_language": {},
+      "by_variant": {},
+      "by_bucket": {}
+    },
+    "B_yatharth": {
+      "overall": {
+        "n": 0,
+        "TP": 0,
+        "TN": 0,
+        "FP": 0,
+        "FN": 0,
+        "precision": null,
+        "recall": null,
+        "F1": null,
+        "false_positive_rate": null,
+        "serious_risk_recall": null,
+        "excluded_ambiguous": 0,
+        "ambiguous_alert_rate": null,
+        "exact_severity_accuracy": null,
+        "category_accuracy": null,
+        "HIGH": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "CRITICAL": {
+          "n": 0,
+          "TP": 0,
+          "TN": 0,
+          "FP": 0,
+          "FN": 0,
+          "precision": null,
+          "recall": null,
+          "F1": null,
+          "false_positive_rate": null,
+          "alert_recall": null,
+          "support": 0
+        },
+        "signal_precision": null,
+        "signal_recall": null
+      },
+      "by_language": {},
+      "canonical_by_language": {},
+      "by_variant": {},
+      "by_bucket": {}
+    }
+  },
+  "AI": {
+    "status": "NOT_RUN",
+    "reason": "No live AI evaluation requested/configured; not equivalent to rules fallback."
+  },
+  "threshold_sweep_descriptive_only": {
+    "30": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "40": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "50": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "60": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "70": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "80": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    },
+    "90": {
+      "n": 0,
+      "TP": 0,
+      "TN": 0,
+      "FP": 0,
+      "FN": 0,
+      "precision": null,
+      "recall": null,
+      "F1": null,
+      "false_positive_rate": null
+    }
+  },
+  "severity_decision_table": {
+    "LOW": {
+      "n": 0,
+      "proposed_serious": 0,
+      "proposed_nonserious": 0
+    },
+    "MEDIUM": {
+      "n": 0,
+      "proposed_serious": 0,
+      "proposed_nonserious": 0
+    },
+    "HIGH": {
+      "n": 0,
+      "proposed_serious": 0,
+      "proposed_nonserious": 0
+    },
+    "CRITICAL": {
+      "n": 0,
+      "proposed_serious": 0,
+      "proposed_nonserious": 0
+    }
+  },
+  "AI_gate_upper_bound": {
+    "recoverable_FN_ids": [],
+    "max_additional_TP": 0,
+    "existing_FP_cannot_be_removed": true,
+    "note": "Optimistic bound, NOT an executed AI result. Frozen gate cannot add new signals or reduce scores."
+  },
+  "translation_pairs": [],
+  "dataset_sha256": "ed9997efd3b1a51aed1f64f82c8ef2726b71e722168feb93fc6e2b9fd6fd2969",
+  "risk_engine_sha256": "74a3465f38e757af3c4907502efd8074689451b09affff7de3652e1adcc862d8"
+}

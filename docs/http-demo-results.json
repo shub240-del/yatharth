@@ -1,0 +1,28 @@
+{
+  "result": "PASS",
+  "synthetic_only": true,
+  "family_id": "280735bc-4f82-46ac-90e6-8d6565c54bde",
+  "cases": [
+    {
+      "severity": "LOW",
+      "score": 0,
+      "alert_created": false
+    },
+    {
+      "severity": "MEDIUM",
+      "score": 30,
+      "alert_created": false
+    },
+    {
+      "severity": "CRITICAL",
+      "score": 100,
+      "alert_created": true
+    }
+  ],
+  "caregiver_status": "RESOLVED",
+  "audit_records_for_parent": 14,
+  "revocation_blocked_analysis": true,
+  "caregiver_raw_message_access": "DENIED",
+  "llm_enabled": false,
+  "openworker_enabled": false
+}
